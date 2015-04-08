@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<inventoryinquiry>
+
+       <environment>Test</environment>
+
+       <skucount>1</skucount>
+
+       <comment>1</comment>
+
+       <docdate>10/14/2013 1:13:50</docdate>
+
+       <inventoryitems>       
+
+              <inventoryitem>
+
+                     <facility>Stahls</facility>
+
+                     <inquirydate>10/30/2013 11:23:20 AM</inquirydate>
+
+                     <itemstatus>active</itemstatus>
+
+                     <itemquantity>22</itemquantity>                     
+
+                     <itemdescription>FedEx</itemdescription>
+
+                     <facilitysku>ST-4000871912-L</facilitysku>
+
+                     <vendorproduct>
+
+                            <stylecode>CT56</stylecode>
+
+                            <color>Black</color>
+
+                            <size>L</size>
+
+                            <upc>400000871912</upc>
+
+                            <sku>400000871912-L</sku>
+
+                     </vendorproduct>
+
+              </inventoryitem>
+
+       </inventoryitems>
+
+</inventoryinquiry>
