@@ -1,0 +1,8 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<authenticateuser>
+                <environment>Test</environment>
+                <senderID>BLUES</senderID>
+                <senderpassword>password</senderpassword>
+                <customername>Blue</customername>
+                <customernumber>BlueS</customernumber>
+</authenticateuser>
