@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<orderfile>
+	<fileid>12345</fileid>
+	<filename>TestOrder</filename>
+	<docdate>9/12/2013 3:13:50 PM</docdate>
+	<environment>Test</environment>
+	<ordercount>1</ordercount>
+	<workorders>
+		<workorder>	
+			<stahlsworkorderid/>
+			<workorderid>23167860</workorderid>
+			<orderdate>2013-09-11 02:30:48</orderdate>
+			<canceldate/>
+			<customerName>DickSporting</customerName>
+			<customerNumber/>
+			<business/>
+			<addresses>
+				<address id="1" name="ShipTo">
+					<name1>Heather</name1>
+					<name2>Feather</name2>
+					<address1>1234 Blueberrry Tart Ave</address1>
+					<address2></address2>
+					<city>Wildomar</city>
+					<state>CA</state>
+					<zip>92595</zip>
+					<phone>5555555111</phone>
+					<country>US</country>
+					<email>hfeather@email.com</email>
+				</address>
+				<address id="2" name="SoldTo">
+					<name1>Francis</name1>
+					<name2>Hughs</name2>
+					<address1>1234 Dan Tart Ave</address1>
+					<address2></address2>
+					<city>San Diego</city>
+					<state>CA</state>
+					<zip>92595</zip>
+					<phone>5555555111</phone>
+					<country>US</country>
+					<email>fhughs@email.com</email>
+				</address>
+			</addresses>
+
+			<shipInfo>
+				<addressID>1</addressID>
+				<ReqShipDate>2013-09-23 23:59:00</ReqShipDate>
+				<shipcarrier>UPS</shipcarrier>
+				<shipmethod>GROUND</shipmethod>
+				<shipcharge>4.30</shipcharge>
+				<shipGroupId/>
+				<priority/>
+			</shipInfo>
+			<billInfo>
+				<addressID>2</addressID>
+				<accountID></accountID>
+				<salesperson></salesperson>
+				<paymentType>CreditCard</paymentType>
+				<totalprice>64.00</totalprice>
+				<taxpercent>64.00</taxpercent>
+				<ordertax>64.00</ordertax>
+			</billInfo>
+
+			<totalquantity>2</totalquantity>
+			<specialinstructions/>
+			<images>
+				<image name="OrderImage">OrderImage.jpg</image> 
+			</images>
+			<customFields>
+				<custom id="1" name="WebOrderNumber">12345</custom>
+			</customFields>
+			<buildinfo>
+				<bom>
+					<product>
+						<stylecode>Jersey</stylecode>
+						<color>Philadelphia Flyers</color>
+						<size>L </size>
+						<upc>400000871912</upc>
+						<desc>NHL Flyers Orange Custom Jersey</desc>
+					</product>
+					<lineprice>32.00</lineprice>
+					<linequantity>1</linequantity>
+					<comps>
+						<comp id="1">
+							<name>Personalization</name>
+							<values>
+								<value type="BackName">Smith</value>
+								<value type="BackNumber">52</value>
+								<value type="Patch"/>
+							</values>
+							<images>
+								<image name="LineCompImage">LineCompImage.jpg</image> 
+							</images>
+						</comp>
+					</comps>
+					<images>
+						<image name="OrderLineImage">OrderLineImage.jpg</image> 
+					</images>
+					<specialinstructions/>
+					<customFields>
+						<custom id="1" name="VendorID">871912</custom>
+					</customFields>
+				</bom>
+			</buildinfo>
+		</workorder>
+		<workorder>
+			<stahlsworkorderid/>
+			<workorderid>FAN2316750</workorderid>
+			<orderdate>2013-10-14 02:30:48</orderdate>
+			<canceldate/>
+			<customerName>Fanatics</customerName>
+			<customerNumber/>
+			<business/>
+			<addresses>
+				<address id="1" name="ShipTo">
+					<name1>Heather</name1>
+					<name2>Feather</name2>
+					<address1>1234 Blueberrry Tart Ave</address1>
+					<address2></address2>
+					<city>Wildomar</city>
+					<state>CA</state>
+					<zip>92595</zip>
+					<phone>5555555111</phone>
+					<country>US</country>
+					<email>hfeather@email.com</email>
+				</address>
+				<address id="2" name="SoldTo">
+					<name1>Francis</name1>
+					<name2>Hughs</name2>
+					<address1>1234 Dan Tart Ave</address1>
+					<address2></address2>
+					<city>San Diego</city>
+					<state>CA</state>
+					<zip>92595</zip>
+					<phone>5555555111</phone>
+					<country>US</country>
+					<email>fhughs@email.com</email>
+				</address>
+			</addresses>
+
+			<shipInfo>
+				<addressID>1</addressID>
+				<ReqShipDate>2013-10-21 23:59:00</ReqShipDate>
+				<shipcarrier>UPS</shipcarrier>
+				<shipmethod>GROUND</shipmethod>
+				<shipcharge>4.30</shipcharge>
+				<shipGroupId/>
+				<priority/>
+			</shipInfo>
+			<billInfo>
+				<addressID>2</addressID>
+				<accountID></accountID>
+				<salesperson></salesperson>
+				<paymentType>CreditCard</paymentType>
+				<totalprice>64.00</totalprice>
+				<taxpercent>0</taxpercent>
+				<ordertax>0</ordertax>
+			</billInfo>
+
+			<totalquantity>2</totalquantity>
+			<specialinstructions/>
+			<images>
+				<image name="OrderImage">OrderImage.jpg</image> 
+			</images>
+			<customFields>
+				<custom id="1" name="WebOrderNumber">12345</custom>
+			</customFields>
+			<buildinfo>
+				<bom>
+					<product>
+						<stylecode>Mavericks</stylecode>
+						<color>Navy</color>
+						<size>M</size>
+						<upc>FAN-3472697</upc>
+						<desc>NBA-Mavericks-Navy-Alt-Authentic-MT</desc>
+					</product>
+					<lineprice>32.00</lineprice>
+					<linequantity>1</linequantity>
+					<comps>
+						<comp id="1">
+							<name>Personalization</name>
+							<values>
+								<value type="BackName">Smith</value>
+								<value type="BackNumber">52</value>
+								<value type="Patch"/>
+							</values>
+							<images>
+								<image name="LineCompImage">LineCompImage.jpg</image> 
+							</images>
+						</comp>
+					</comps>
+					<images>
+						<image name="OrderLineImage">OrderLineImage.jpg</image> 
+					</images>
+					<specialinstructions/>
+					<customFields>
+						<custom id="1" name="VendorID">871912</custom>
+					</customFields>
+				</bom>
+			</buildinfo>
+		</workorder>
+	</workorders>
+</orderfile>
